@@ -1,7 +1,7 @@
 ![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 ---
-⭐️ (https://github.com/CyrisXD)
+
 
 
 <!--
