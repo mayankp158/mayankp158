@@ -8,7 +8,7 @@ Full-Stack | Machine Learning & A.I :robot:. (In progress)
 Amity University Student. :man_technologist:
 
 ## About me 
-<img src="https://github.com/mayankp158/mayankp158/blob/master/ezgif.com-resize.gif" alt="Welcome!" width="300"/>
+![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
