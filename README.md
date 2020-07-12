@@ -1,4 +1,4 @@
-![About Me](https://github.com/mayankp158/mayankp158/ezgif.com-gif-maker.gif)
+![About Me](ezgif.com-gif-maker.gif)
 
 ---
 
