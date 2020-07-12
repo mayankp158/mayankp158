@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+---
+⭐️ From [CyrisXD](https://github.com/CyrisXD)
+
+
 <!--
 **mayankp158/mayankp158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
