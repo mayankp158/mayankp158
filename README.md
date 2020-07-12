@@ -1,4 +1,4 @@
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![About Me](https://github.com/mayankp158/mayankp158/ezgif.com-gif-maker.gif)
 
 ---
 
