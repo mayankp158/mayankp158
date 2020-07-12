@@ -11,7 +11,7 @@ Amity University Student. :man_technologist:
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
-- :earth_americas: I'm from Agra - India 
+- :earth_americas: I'm from Lucknow - India 
 - :video_game: I like to solve complex problems
 - :gem: I love to customize everything lol
 
