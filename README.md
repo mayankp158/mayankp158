@@ -1,4 +1,4 @@
-![About Me](ezgif.com-resize.gif)
+(ezgif.com-resize.gif)
 
 ---
 
